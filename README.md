@@ -15,7 +15,4 @@ If you aren't Debian-based or don't prefer package managers, then use this downl
 [Download](math-shoot_1.4.9.zip)  
 Unfortunately, there's no installer for Windows. Unzip, and run the file `mathshoot.exe`.
 
-# Old versions
-Unfortunately, only the latest version of Math Shoot is supported for native download. To play older version of Math Shoot, you must use the node.js version.
-
 Click [here](https://www.lennonswebsite.tk/math-shoot-download.md) to download it from my website.
