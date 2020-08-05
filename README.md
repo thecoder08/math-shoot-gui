@@ -19,5 +19,3 @@ Unfortunately, there's no installer for Windows. Unzip, and run the file `mathsh
 Unfortunately, only the latest version of Math Shoot is supported for native download. To play older version of Math Shoot, you must use the node.js version.
 
 Click [here](https://www.lennonswebsite.tk/math-shoot-download.md) to download it from my website.
-
-<title>Math Shoot Download</title>
