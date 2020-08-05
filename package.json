@@ -1,6 +1,10 @@
 {
-  "name": "math-shoot",
+  "name": "math-shoot-native",
   "main": "index.html",
   "version": "1.0.1",
-  "description": "The native version of Math Shoot."
+  "description": "The native version of Math Shoot.",
+  "dependencies": {
+    "@thecoder08/docuget": "^1.0.1",
+    "@thecoder08/http": "^1.0.1"
+  }
 }
